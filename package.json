@@ -1,0 +1,34 @@
+{
+  "name": "rgfw.c",
+  "version": "1.8.0",
+  "description": "A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries; Riley Mabb (2023).",
+  "keywords": [
+    "c",
+    "library",
+    "window",
+    "graphics",
+    "cross-platform",
+    "lightweight",
+    "single-header",
+    "abstraction",
+    "gui",
+    "rgfw"
+  ],
+  "homepage": "https://github.com/nodef/rgfw.c#readme",
+  "bugs": {
+    "url": "https://github.com/nodef/rgfw.c/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/rgfw.c.git"
+  },
+  "license": "Zlib",
+  "author": "wolfram77@gmail.com",
+  "main": "rgfw.h",
+  "scripts": {
+    "test": "bash build.sh test"
+  },
+  "dependencies": {
+    "glad.c": "^1.2025.10"
+  }
+}
