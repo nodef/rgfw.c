@@ -1,6 +1,6 @@
 {
   "name": "rgfw.c",
-  "version": "1.8.1",
+  "version": "1.8.2",
   "description": "A cross platform lightweight single-header simple-to-use window abstraction library for creating graphical programs or libraries; Riley Mabb (2023).",
   "keywords": [
     "c",
